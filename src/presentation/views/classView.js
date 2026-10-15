@@ -226,6 +226,7 @@ export function renderClasses(
         `;
 
         return;
+
     }
 
     list.innerHTML = classes.map(
